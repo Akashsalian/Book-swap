@@ -39,21 +39,21 @@ BookSwap is a modern web application that allows users to buy, sell, and exchang
 ## Screenshots
 
 ### Signup Page
-![Signup Page](screenshots/Screenshot 2026-06-23 195225.png)
+![Signup Page](screenshots/195225.png)
 ### Login Page
-![Login Page](screenshots/Screenshot 2026-06-23 195230.png)
+![Login Page](screenshots/195230.png)
 ### Home Page
-![Home Page](screenshots/Screenshot 2026-06-23 195001.png)
+![Home Page](screenshots/195001.png)
 ### Listed books Page
-![Listed books Page](screenshots/Screenshot 2026-06-23 195011.png)
+![Listed books Page](screenshots/195011.png)
 ### Listed books Page
-![Listed books Page](screenshots/Screenshot 2026-06-23 195023.png)
+![Listed books Page](screenshots/195023.png)
 ### Book details Page
-![Book details Page](screenshots/Screenshot 2026-06-23 195101.png)
+![Book details Page](screenshots/195101.png)
 ### Book listing Page
-![Book listing Page](screenshots/Screenshot 2026-06-23 195142.png)
+![Book listing Page](screenshots/195142.png)
 ### Book listing Page
-![Book listing Page](screenshots/Screenshot 2026-06-23 195205.png)
+![Book listing Page](screenshots/195205.png)
 
 
 ## 📂 Project Structure
